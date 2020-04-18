@@ -1,0 +1,215 @@
+C:\Users\Yaserov\Documents\CSE241\HW02>HW2.EXE
+Welcome to Connect4!, Please type a board size. (an integer between 4 and 20)
+6
+===========================
+Please Select a game type
+P.Player vs Player
+C.Player vs Computer
+C
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+F
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . O . . X
+F
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . X
+O . O . . X
+F
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . O
+. . . . . X
+. . . . . X
+O . O . . X
+SAVE TEST2.TXT
+E
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . O
+. . . . . X
+. . . . . X
+O O O . X X
+E
+===========================
+Final Game Field:
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . O
+. . . . . X
+. . . . X X
+o o o o X X
+Game Over!
+The Winner of this game is Computer!
+Thanks for playing!
+C:\Users\Yaserov\Documents\CSE241\HW02>HW2
+Welcome to Connect4!, Please type a board size. (an integer between 4 and 20)
+16
+===========================
+Please Select a game type
+P.Player vs Player
+C.Player vs Computer
+P
+================================
+A B C D E F G H I J K L M N O P
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . .
+LOAD TEST2.TXT
+Game Loaded
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . O
+. . . . . X
+. . . . . X
+O . O . . X
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . O
+. . . . . X
+. . . . . X
+O . O . . X
+B
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . O
+. . . . . X
+O . . . . X
+O X O . . X
+B
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . O
+O . . . . X
+O X . . . X
+O X O . . X
+A
+============
+A B C D E F
+. . . . . .
+. . . . . .
+X . . . . O
+O O . . . X
+O X . . . X
+O X O . . X
+C
+============
+A B C D E F
+. . . . . .
+. . . . . .
+X . . . . O
+O O O . . X
+O X X . . X
+O X O . . X
+D
+============
+A B C D E F
+. . . . . .
+. . . . . .
+X . O . . O
+O O O . . X
+O X X . . X
+O X O X . X
+E
+============
+A B C D E F
+. . . . . .
+. . O . . .
+X . O . . O
+O O O . . X
+O X X . . X
+O X O X X X
+C
+============
+A B C D E F
+. . X . . .
+. . O . . .
+X O O . . O
+O O O . . X
+O X X . . X
+O X O X X X
+A
+============
+A B C D E F
+. . X . . .
+X O O . . .
+X O O . . O
+O O O . . X
+O X X . . X
+O X O X X X
+B
+============
+A B C D E F
+O X X . . .
+X O O . . .
+X O O . . O
+O O O . . X
+O X X . . X
+O X O X X X
+F
+============
+A B C D E F
+O X X . . .
+X O O . . X
+X O O . . O
+O O O . . X
+O X X O . X
+O X O X X X
+E
+===========================
+Final Game Field:
+============
+A B C D E F
+O X X . . .
+X O O . . X
+X O O . . O
+o o o o . X
+O X X O X X
+O X O X X X
+Game Over!
+The Winner of this game is Computer!
+Thanks for playing!

@@ -1,0 +1,110 @@
+Welcome to Connect4!, Please type a board size. (an integer between 4 and 20)
+102
+Invalid input, please try again.
+1
+Invalid input, please try again.
+5
+Invalid input, please try again.
+6
+===========================
+Please Select a game type
+P.Player vs Player
+C.Player vs Computer
+P12
+Invalid input, please try again.
+COMP
+Invalid input, please try again.
+15555555555555555
+Invalid input, please try again.
+C
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+FRANCE
+Invalid input, please try again.
+F
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . O . . X
+251252
+Invalid input, please try again.
+F
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . X
+O . O . . X
+BRAKES
+Invalid input, please try again.
+B
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . .
+. . . . . .
+O . . . . X
+O X O . . X
+F
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . O
+. . . . . X
+O . . . . X
+O X O . . X
+A
+============
+A B C D E F
+. . . . . .
+. . . . . .
+. . . . . O
+X . . . . X
+O O . . . X
+O X O . . X
+A
+============
+A B C D E F
+. . . . . .
+. . . . . .
+X . . . . O
+X . . . . X
+O O O . . X
+O X O . . X
+A
+============
+A B C D E F
+O . . . . .
+X . . . . .
+X . . . . O
+X . . . . X
+O O O . . X
+O X O . . X
+D
+===========================
+Final Game Field:
+============
+A B C D E F
+O . . . . .
+X . . . . .
+X . . . . O
+X . . . . X
+o o o o . X
+O X O X . X
+Game Over!
+The Winner of this game: Player 2
+Thanks for playing!

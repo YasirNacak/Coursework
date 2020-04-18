@@ -1,0 +1,112 @@
+C:\Users\Yaserov\Documents\CSE241\HW02>HW2.EXE
+Welcome to Connect4!, Please type a board size. (an integer between 4 and 20)
+4
+===========================
+Please Select a game type
+P.Player vs Player
+C.Player vs Computer
+P
+========
+A B C D
+. . . .
+. . . .
+. . . .
+. . . .
+A
+========
+A B C D
+. . . .
+. . . .
+. . . .
+X . . .
+B
+========
+A B C D
+. . . .
+. . . .
+. . . .
+X O . .
+C
+========
+A B C D
+. . . .
+. . . .
+. . . .
+X O X .
+D
+========
+A B C D
+. . . .
+. . . .
+. . . .
+X O X O
+LOAD FILE.TXT
+Can not find a file named: FILE.TXT
+A
+========
+A B C D
+. . . .
+. . . .
+X . . .
+X O X O
+B
+========
+A B C D
+. . . .
+. . . .
+X O . .
+X O X O
+D
+========
+A B C D
+. . . .
+. . . .
+X O . X
+X O X O
+C
+========
+A B C D
+. . . .
+. . . .
+X O O X
+X O X O
+A
+========
+A B C D
+. . . .
+X . . .
+X O O X
+X O X O
+B
+========
+A B C D
+. . . .
+X O . .
+X O O X
+X O X O
+C
+========
+A B C D
+. . . .
+X O X .
+X O O X
+X O X O
+D
+========
+A B C D
+. . . .
+X O X O
+X O O X
+X O X O
+A
+===========================
+Final Game Field:
+========
+A B C D
+x . . .
+x O X O
+x O O X
+x O X O
+Game Over!
+The Winner of this game: Player 1!
+Thanks for playing!
