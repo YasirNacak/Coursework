@@ -1,0 +1,76 @@
+Question 3:
+Undirected Cyclic Graph with no weight (v:10)
+Plotting Graph:
+adjacent vertices of 0:
+	1 (weight:1)
+	9 (weight:1)
+	
+adjacent vertices of 1:
+	0 (weight:1)
+	2 (weight:1)
+	4 (weight:1)
+	8 (weight:1)
+	9 (weight:1)
+	
+adjacent vertices of 2:
+	1 (weight:1)
+	6 (weight:1)
+	
+adjacent vertices of 3:
+	4 (weight:1)
+	
+adjacent vertices of 4:
+	1 (weight:1)
+	3 (weight:1)
+	
+adjacent vertices of 5:
+	6 (weight:1)
+	
+adjacent vertices of 6:
+	2 (weight:1)
+	5 (weight:1)
+	
+adjacent vertices of 7:
+	8 (weight:1)
+	9 (weight:1)
+	
+adjacent vertices of 8:
+	1 (weight:1)
+	7 (weight:1)
+	9 (weight:1)
+	
+adjacent vertices of 9:
+	0 (weight:1)
+	1 (weight:1)
+	7 (weight:1)
+	8 (weight:1)
+	
+
+Is this graph acyclic: false
+Is this graph undirected: true
+
+Spanning Tree of DFS:
+0
+  1
+    2
+      6
+        5
+    4
+      3
+  9
+    1
+    7
+    8
+      1
+      7
+Spanning Tree of BFS:
+0
+  1
+    2
+      6
+        5
+    4
+      3
+    8
+  9
+    7

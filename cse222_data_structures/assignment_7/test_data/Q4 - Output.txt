@@ -1,0 +1,19 @@
+Spanning Tree of DFS:
+0
+  1
+  5
+    2
+      1
+      6
+    3
+    4
+      2
+      3
+Spanning Tree of BFS:
+0
+  1
+    2
+      6
+  5
+    3
+    4

@@ -1,0 +1,53 @@
+Question 1:
+Directed Acyclic Graph with random weight (v:10, e:20)
+Plotting Graph:
+adjacent vertices of 0:
+	1 (weight:8)
+	2 (weight:2)
+	3 (weight:5)
+	4 (weight:1)
+	5 (weight:3)
+	6 (weight:8)
+	7 (weight:9)
+	8 (weight:9)
+	9 (weight:1)
+	
+adjacent vertices of 1:
+	2 (weight:9)
+	4 (weight:4)
+	
+adjacent vertices of 2:
+	6 (weight:7)
+	
+adjacent vertices of 3:
+	7 (weight:10)
+	
+adjacent vertices of 4:
+	
+adjacent vertices of 5:
+	3 (weight:9)
+	
+adjacent vertices of 6:
+	8 (weight:3)
+	
+adjacent vertices of 7:
+	4 (weight:4)
+	
+adjacent vertices of 8:
+	5 (weight:3)
+	9 (weight:1)
+	
+adjacent vertices of 9:
+	3 (weight:7)
+	5 (weight:5)
+	
+
+Is this graph acyclic: true
+Is this graph undirected: false
+
+Shortest path from node 0 to 7
+0 7 
+Shortest path from node 6 to 4
+6 8 9 3 7 4 
+Shortest path from node 1 to 9
+1 2 6 8 9 

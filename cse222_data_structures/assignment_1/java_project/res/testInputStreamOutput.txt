@@ -1,0 +1,438 @@
+Please enter your email address and password
+aoztrk@csehotelr.net
+ozt123456
+Welcome to the Hotel Booking System, abdullahozturk. Your user type is: Receptionist.
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+BOOK
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+102
+List of users you can book a room for:
+Name: sevdenacak
+Name: tariknar
+Name: yunusaktas
+Enter the name of a guest to register them.
+yunusaktas
+Action successful.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+MENU
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+CHECKIN
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+102
+Action successful.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+MENU
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+BOOK
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+100
+List of users you can book a room for:
+Name: sevdenacak
+Name: tariknar
+Name: yunusaktas
+Enter the name of a guest to register them.
+tariknar
+Action successful.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+MENU
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+BOOK
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+100
+List of users you can book a room for:
+Name: sevdenacak
+Name: tariknar
+Name: yunusaktas
+Enter the name of a guest to register them.
+sevdenacak
+This room is already booked.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+MENU
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+CHECKOUT
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+102
+Action successful.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+LOGOUT
+Please enter your email address and password
+yunuss01@csehotelu.com
+123456
+Welcome to the Hotel Booking System, yunusaktas. Your user type is: Guest.
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+BOOK
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+100
+This room is already booked.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+MENU
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+BOOK
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+105
+Action successful.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+MENU
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+CHECKIN
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+105
+Guests are not allowed to check in for rooms.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+LOGOUT
+Please enter your email address and password
+hturgut@csehotelr.net
+sifreSIFRE
+Welcome to the Hotel Booking System, hakanturgut. Your user type is: Receptionist.
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+CHECKIN
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+100
+Action successful.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+MENU
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+CHECKIN
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+101
+You can not check in for a room that is not booked.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+MENU
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+CHECKIN
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+105
+Action successful.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+MENU
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+CHECKOUT
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+110
+You can not check out a room that is not checked in.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+MENU
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+CHECKOUT
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+100
+Action successful.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+MENU
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+CHECKOUT
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+101
+You can not check out a room that is not checked in.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+MENU
+Enter in this screen:
+BOOK to book a room
+CANCELBOOK to cancel a booking
+CHECKIN to check in a booked room
+CHECKOUT to check out of a checked in room.
+EXIT to quit the program.
+CHECKOUT
+Please enter a room number to Book.
+Room Numbers:
+100
+101
+102
+103
+104
+105
+106
+107
+108
+109
+110
+105
+Action successful.
+Enter:
+MENU to go back to the menu.
+LOGOUT to log out of the system
+EXIT to close the program.
+EXIT
+Thanks for using hotel automation system, have a nice day.
+
+Process finished with exit code 0

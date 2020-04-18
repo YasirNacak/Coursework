@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"Graph","l":"Edge"},{"p":"Graph","l":"Graph"},{"p":"Q1","l":"Main"},{"p":"Q2","l":"Main"},{"p":"Q3","l":"Main"},{"p":"Graph","l":"SpanningTree"},{"p":"Graph","l":"SpanningTree.Node"},{"p":"Graph","l":"Vertex"}]

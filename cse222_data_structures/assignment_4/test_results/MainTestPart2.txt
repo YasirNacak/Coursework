@@ -1,0 +1,116 @@
+--------------------------------------------------------
+TEST OF PART 2
+--------------------------------------------------------
+node: [40, 45]
+left child: [15, 70]
+right child: null
+------------------------
+node: [15, 70]
+left child: null
+right child: null
+------------------------
+/////////////////////////////////////////////
+node: [40, 45]
+left child: [15, 70]
+right child: [70, 10]
+------------------------
+node: [15, 70]
+left child: null
+right child: null
+------------------------
+node: [70, 10]
+left child: null
+right child: null
+------------------------
+/////////////////////////////////////////////
+node: [40, 45]
+left child: [15, 70]
+right child: [70, 10]
+------------------------
+node: [15, 70]
+left child: null
+right child: null
+------------------------
+node: [70, 10]
+left child: null
+right child: [69, 50]
+------------------------
+node: [69, 50]
+left child: null
+right child: null
+------------------------
+/////////////////////////////////////////////
+node: [40, 45]
+left child: [15, 70]
+right child: [70, 10]
+------------------------
+node: [15, 70]
+left child: null
+right child: null
+------------------------
+node: [70, 10]
+left child: null
+right child: [69, 50]
+------------------------
+node: [69, 50]
+left child: [66, 85]
+right child: null
+------------------------
+node: [66, 85]
+left child: null
+right child: null
+------------------------
+/////////////////////////////////////////////
+node: [40, 45]
+left child: [15, 70]
+right child: [70, 10]
+------------------------
+node: [15, 70]
+left child: null
+right child: null
+------------------------
+node: [70, 10]
+left child: null
+right child: [69, 50]
+------------------------
+node: [69, 50]
+left child: [66, 85]
+right child: [85, 90]
+------------------------
+node: [66, 85]
+left child: null
+right child: null
+------------------------
+node: [85, 90]
+left child: null
+right child: null
+------------------------
+/////////////////////////////////////////////
+node: [40, 45]
+left child: [15, 70]
+right child: [70, 10]
+------------------------
+node: [15, 70]
+left child: null
+right child: null
+------------------------
+node: [70, 10]
+left child: null
+right child: [69, 50]
+------------------------
+node: [69, 50]
+left child: [66, 85]
+right child: [85, 90]
+------------------------
+node: [66, 85]
+left child: null
+right child: null
+------------------------
+node: [85, 90]
+left child: null
+right child: null
+------------------------
+/////////////////////////////////////////////
+--------------------------------------------------------
+END OF THE MAIN TEST FOR PART 2
+--------------------------------------------------------
