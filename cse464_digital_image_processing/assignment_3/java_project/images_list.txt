@@ -1,0 +1,10 @@
+airplane
+boats
+cat
+fruits
+girl
+goldhill
+lena
+mandril
+monarch
+peppers
