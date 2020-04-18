@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Genetics:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Genetics_jar</output-path>
+    <root id="archive" name="Genetics.jar">
+      <element id="module-output" name="Genetics" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dep/xchart-3.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
